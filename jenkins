@@ -1,2 +1,3 @@
 Jenkins is an open source automation server written in Java
-enkins helps to automate the non-human part of the software development process,
+Jenkins helps to automate the non-human part of the software development process,
+It is a server-based system that runs in servlet containers such as Apache Tomcat
